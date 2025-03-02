@@ -12,5 +12,7 @@ Tecnologías utilizadas
 HTML
 CSS
 JavaScript
+
 Agradecimientos
+
 Agradezco a Oracle y Alura Latam por esta oportunidad de aprendizaje y a los instructores por su guía y apoyo.
